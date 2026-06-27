@@ -104,3 +104,7 @@ The application can be extended with additional features such as:
 ## Conclusion
 
 Country Explorer is an educational web development project that successfully demonstrates Public API integration within a responsive web application. By combining HTML, CSS, JavaScript, and API communication techniques, the project provides users with useful country information through a simple and interactive interface. It serves as a practical example of how modern web applications retrieve, process, and display external data dynamically while maintaining an engaging user experience.
+
+#OUTPUT
+
+<img width="1352" height="686" alt="Image" src="https://github.com/user-attachments/assets/3a1c9b97-2774-473b-9951-a4f5ec0abda2" />
